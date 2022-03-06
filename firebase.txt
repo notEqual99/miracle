@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyDFpVojT3h35zS2wHWH0qrXwMBOi_-RJ-M",
+  authDomain: "miracle-62659.firebaseapp.com",
+  projectId: "miracle-62659",
+  storageBucket: "miracle-62659.appspot.com",
+  messagingSenderId: "275727863416",
+  appId: "1:275727863416:web:38018dba2aef50ea4ee78d",
+  measurementId: "G-Z57NBWCQB4"
+};

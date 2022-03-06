@@ -1,0 +1,32 @@
+body{
+    background-color: #D2B4DE;
+}
+
+.background{
+    width: auto;
+    height: auto;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 80%;
+    top: 50%;
+}
+.background .shape{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    /* border-radius: 50%; */
+}
+.shape:first-child{
+    height: auto;
+    left: -80px;
+    top: -80px;
+}
+.shape:last-child{
+    background: linear-gradient(
+        to right,
+        #ff512f,
+        #f09819
+    );
+    right: -30px;
+    bottom: -80px;
+}

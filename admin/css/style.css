@@ -1,0 +1,19 @@
+table{
+    font-size:14px;
+    color: #3b3939;
+}
+.content-wrapper{
+    margin: 75px 5px 0 5px;
+}
+.card-header{
+    font-size:20px;
+    color: #3b3939;
+}
+.content-heading{
+    color: #3b3939;
+}
+.table>thead>tr>th{
+    color: #3a3939;
+    background-color: transparent;
+    background-color:#DDA0DD;
+}
